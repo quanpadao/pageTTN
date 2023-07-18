@@ -1,0 +1,20 @@
+1) Bảng user
+- id: int
+- fullname: string
+
+2) Bảng student
+id :int
+last_name: string
+first_name: string
+DOB: int (nam sinh)
+type: type (1-thường // 2-cọc cạch)
+class: string
+
+3)Bảng video
+- id: int
+- url_video: string
+- note: string
+
+4) Class
+id int
+name varchar

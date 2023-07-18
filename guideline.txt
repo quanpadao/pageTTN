@@ -1,0 +1,10 @@
+Frontend:
+index.php -> Lich hoc
+admin.php -> trang quan tri
+video.php -> Hien thi video bai giang
+manager.php -> quan ly hoc sinh
+
+
+Database:
+config.php -> cau hinh CSDL
+dbhelper.php -> function dung chung lam viec voi CSDL
